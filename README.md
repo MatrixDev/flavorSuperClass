@@ -15,7 +15,7 @@ There are few possible ways to overcome this limitation:
 
 This library uses code generation to create new super classes based on priorities. It is also can be used for pure **Java** projects.
 
-> It is better to use [flavorAlias](https://github.com/MatrixDev/flavorAlias) for pure Kotlin project as it has less limitations and overheads.
+> It is better to use [flavorAlias](https://github.com/MatrixDev/flavorAlias) in pure Kotlin projects as it has less limitations and overheads.
 
 # Limitations
 
