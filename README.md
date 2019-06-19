@@ -15,7 +15,14 @@ There are few possible ways to overcome this limitation:
 
 This library uses code generation to create new super classes based on priorities. It is also can be used for pure **Java** projects.
 
-> It is better to use [flavorAlias](https://github.com/MatrixDev/flavorAlias) For pure Kotlin project as it has less limitations and overheads.
+> It is better to use [flavorAlias](https://github.com/MatrixDev/flavorAlias) for pure Kotlin project as it has less limitations and overheads.
+
+# Limitations
+
+There are few limitations that you sould be aware:
+1. base classes must not be final
+2. base classes must have at least one non-private constructor
+3. additional annotations from base classes will not be copied to generated class 
 
 # Example
 
