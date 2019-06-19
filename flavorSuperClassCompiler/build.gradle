@@ -1,0 +1,13 @@
+apply plugin: 'java'
+apply plugin: 'com.github.dcendents.android-maven'
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"
+
+group = 'com.github.MatrixDev'
+
+dependencies {
+    implementation project(':flavorSuperClassLib')
+
+    implementation 'com.squareup:javapoet:1.11.1'
+}
