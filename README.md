@@ -1,6 +1,7 @@
 # flavorSuperClass
 
 [![Release](https://jitpack.io/v/MatrixDev/flavorSuperClass.svg)](https://jitpack.io/#MatrixDev/flavorSuperClass)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-flavorSuperClass-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7723)
 
 # Overview
 
